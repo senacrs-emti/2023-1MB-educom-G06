@@ -1,4 +1,14 @@
 ul li{
+    list-style: none;
     display: flex;
-    margin-top: 10px;
+    
+}
+ul li input{
+    margin-left: 10px;
+    border-radius: 200%;
+    
+}
+ul li label{
+    margin-left: 2px;
+    z 
 }

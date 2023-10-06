@@ -1,16 +1,16 @@
-
-var isValid = false;
-
-while(radio.checked){
-    if(document.getElementsByClassName('certo').checked) {
-      
-      }else if(document.getElementsByClassName('errado').checked) {
-      
-      }
-}
+$(document).ready(function() {
 
 
+  $("input[type='radio']").click(function() {
+    var marcado = this.value;
+
+    if (marcado == "s") {
+      alert("Correto");
+    } else {
+      var resposta = $('[name="resposta"][value="e"]').get(0).nextSibling.textContent;
+      alert("Errado, a resposta correta seria: " + resposta);
+    }
+  });
 
 
-//var documento  = document.getElementsByClassName('certa');
- 
+});
