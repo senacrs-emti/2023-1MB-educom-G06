@@ -1,14 +1,29 @@
-ul li{
+#joao #perguntas ul li{
     list-style: none;
     display: flex;
     
 }
-ul li input{
+#joao #perguntas ul li input{
     margin-left: 10px;
     border-radius: 200%;
     
 }
-ul li label{
+#joao #perguntas ul li label{
     margin-left: 2px;
      
+}   
+#joao #perguntas{
+    height: 300px;
+    width: 800px;
+    margin-left: 350px;
+
+}
+#joao{
+    height: 300px;
+    width: 100%;
+}
+
+#felipe{
+    height: 300px;
+    width: 100%;
 }
