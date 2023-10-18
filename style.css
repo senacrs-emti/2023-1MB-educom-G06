@@ -1,0 +1,53 @@
+/*MENU*/
+.cont{
+    margin-top: 20px;
+    width: 80%;
+    height: 305px;
+    margin-left: 10%;
+    background-color: gray;
+    padding: 10px;
+}
+
+.fund h3{
+    margin-top: 10px;
+    background-color: gainsboro;
+}
+
+.med h3{
+    margin-top: 90px;
+    background-color: gainsboro;
+}
+
+a{
+    color: black;
+    font-size: 20px;
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.331);
+}
+
+a:hover{
+    color: black;
+    text-decoration: none;
+    transform: scale(0.98);
+}
+
+.fund a{
+    display: flex;
+    background-color: gainsboro;
+    float: left;
+    width: 45%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-bottom: 5px;
+    padding-left: 22%;
+}
+
+.med a{
+    display: flex;
+    background-color: gainsboro;
+    float: left;
+    width: 95%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-bottom: 5px;
+    padding-left: 47%;
+}
