@@ -1,0 +1,93 @@
+[
+    {
+        "pergunta": " O período paleolítico marca o começo do desenvolvimento humano e o começo para como nos comportamos hoje em dia. Este período também pode ser chamado de:",
+        "resposta": "b",
+        "alternativa": [{
+            "a": "Idade do bronze",
+            "b": "Idade da pedra lascada",
+            "c": "Idade da pedra polida"
+        }]
+        
+    },
+    {
+    "pergunta": " O período neolítico foi muito marcado pelo domínio da agricultura, o começo das primeiras cidades humanas e a perda de um certo comportamento dos humanos que é: :",
+    "resposta": "a",
+    "alternativa": [{
+        "a": "O comportamento sedentário",
+        "b": "O comportamento nômade",
+        "c": "O comportamento solitário "
+    }]
+    },
+    {
+        "pergunta": " Depois da criação e começo do espação das primeiras cidades humanas, os povos se encontravam em uma situação em que a disputa por espaço e recursos se tornava inevitável. Um dos povos mais lembrados deste período foram os:",
+        "resposta": "c",
+        "alternativa": [{
+            "a": "Fenícios ",
+            "b": "Minoicos",
+            "c": "Babilônicos"
+        }]
+    },
+    {
+        "pergunta": "  Por volta dos anos 3.500 a.C os povos nomos se uniram formando o Alto Egito (no Sul) e o Baixo Egito (no Norte). Estes dois reinos foram então unificados em apenas um por um homem chamado “Menés” que era:",
+        "resposta": "b",
+        "alternativa": [{
+            "a": "Menés rei do Baixo Egito  ",
+            "b": "Menés rei do Alto Egito ",
+            "c": "Menés chefe militar do Alto Egito "
+        }]
+    },
+    {
+        "pergunta": " Após a união do Egito, o povo agora unificado precisava de um lider que foi nomeado de faraó. Quem foi este primeiro faraó? ",
+        "resposta": "b",
+        "alternativa": [{
+            "a": "Ramsés II",
+            "b": "Menés ",
+            "C": "Ramsés I"
+        }]
+    },
+    {
+        "pergunta": "Os hebreus ficaram conhecidos como um povo que eram estres em arquitetura e construção de templos e palácios. O mais famoso deles foi destruído pelos romanos e hoje resta apenas um muro. Qual templo é este? ",
+        "resposta": "a",
+        "alternativa": [{
+            "a": "Templo de Jerusalém",
+            "b": "Templo de Maomé",
+            "C": "Templo das Lamentações"
+        }]
+    },
+    {
+        "pergunta": "Um ponto muito destacável da Grécia era seu modelo de governo que é conhecido até hoje. Um de seus principais modelos era chamado de “Democracia”. Como se baseava este modelo?",
+        "resposta": "C",
+        "alternativa": [{
+            "a": "Um sistema onde todo o povo pode ter sua voz e podem ter seus direitos",
+            "b": "Um sistema onde todos os homens são iguais e tem os mesmos direitos",
+            "C": "Um sistema onde apenas os homens livres e atenienses poderiam votar"
+        }]
+    },
+    {
+        "pergunta": "Atenas e Sparta sempre estiveram e conflito. Qual foi uma das mais importantes guerras entre eles?  ",
+        "resposta": "B",
+        "alternativa": [{
+            "a": "Guerra de Tróia ",
+            "b": "Guerra do Peloponeso",
+            "C": "As Guerras Médicas"
+        }]
+    },
+    {
+        "pergunta": "Roma, uma das maiores e massacrantes civilização da história uma era muito conhecida por suas obras arquitetônicas. A sua mais famosa construção até hoje em dia é:. Qual templo é este? ",
+        "resposta": "a",
+        "alternativa": [{
+            "a": "O Coliseu",
+            "b": "Obelisco de Roma",
+            "C": "Torre de Pizza"
+        }]
+    },
+    {
+        "pergunta": "Após a queda de Roma surgiram dois impérios. Quais eram seus nomes? ",
+        "resposta": "C",
+        "alternativa": [{
+            "a": "Império Bizantino e Roma do Ocidente ",
+            "b": "Império Bizantino e Roma do Oriente",
+            "C": "Roma do Ocidente e Roma do Oriente "
+        }]
+    }
+]

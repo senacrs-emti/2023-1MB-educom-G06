@@ -14,5 +14,9 @@ $(document).ready(function() {
 
   });
 
+  var test = $.getJSON(jon.json); 
+  var jsontest = JSON.parse(test);
+  
+  console.log(jsontest);
 
 });
