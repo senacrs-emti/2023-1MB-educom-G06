@@ -20,6 +20,7 @@
     color: white;
     text-shadow: 1px 1px 1px black;
     box-shadow: 1px 1px 1px black;
+    font-family: 'vanilla';
 }
 
 .med h3{
@@ -28,6 +29,7 @@
     color: white;
     text-shadow: 1px 1px 1px black;
     box-shadow: 1px 1px 1px black;
+    font-family: 'vanilla';
 }
 
 a{
@@ -37,9 +39,9 @@ a{
 }
 
 a:hover{
-    color: black;
-    text-decoration: none;
-    transform: scale(0.98);
+    color: rgb(255, 255, 117);
+    text-decoration: underline overline;
+    transform: scale(0.97);
 }
 
 .fund a{
@@ -73,17 +75,20 @@ a:hover{
 }
 
 .menu{
-    background-image: url(https://i.pinimg.com/originals/0d/2e/72/0d2e72e0a5cb1c3eac3225e390907cc4.gif);
+    background-image: url(https://steamuserimages-a.akamaihd.net/ugc/785254538960148235/540CE3179B68243EEED7B516C57DD35E6A56F528/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true);
     background-repeat: no-repeat;
-    background-size: 100%;
-    height: 605px;
+    background-size: 120%;
+    height: 700px;
     overflow: hidden;
     backdrop-filter: blur(3px);
+    background-position-x: -50px;
+    background-position-y: -60px;
 }
 
 .logo{
     color: white;
     text-shadow: 2px 2px 2px gray;
+    font-family: 'vanilla';
 }
 
 
