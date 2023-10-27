@@ -14,11 +14,24 @@ $(document).ready(function() {
 
   });
 
-  function Func() { 
-    fetch("./jon.json") 
-        .then((res) => { 
-        return res.json(); 
-    }) 
-    .then((data) => console.log(data)); 
-}
+  
+$.getJSON("jon.json", function (data) {
+  $('#perguntas h1').html(data[1].pergunta);
+  console.log(data[1]);
+});
+
+
+
+//
+/*fetch("jon.json").then((Response) => {
+  Response.json().then((perguntas) => {
+    console.log(perguntas);
+  })
+});*/
+
+
+
+
+     
+
 });
