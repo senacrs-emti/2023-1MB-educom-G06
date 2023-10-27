@@ -91,3 +91,13 @@
         }]
     }
 ]
+function Func() { 
+    fetch("./jon.json") 
+        .then((res) => { 
+        return res.json(); 
+        let divperguntas = document.querySelector("#perguntas")
+
+        fetch("jon.json").then
+    }) 
+    .then((data) => console.log(data)); 
+}
