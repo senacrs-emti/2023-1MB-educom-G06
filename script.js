@@ -10,13 +10,15 @@ $(document).ready(function() {
       }else{
           alert('Errado');
       }
-    });
+    }); 
 
   });
 
-  var test = $.getJSON(jon.json); 
-  var jsontest = JSON.parse(test);
-  
-  console.log(jsontest);
-
+  function Func() { 
+    fetch("./jon.json") 
+        .then((res) => { 
+        return res.json(); 
+    }) 
+    .then((data) => console.log(data)); 
+}
 });
