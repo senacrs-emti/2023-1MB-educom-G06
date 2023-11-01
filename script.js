@@ -13,24 +13,19 @@ $(document).ready(function() {
     }); 
 
   });
-
   
 $.getJSON("jon.json", function (data) {
+
+  let questao = 1;
+  $('#questão').val(1)
+
+
   $('#perguntas h1').html(data[1].pergunta);
-  console.log(data[1]);
+  // respostas
+  $('#a').html(data[1].alternativa[0].a);
+  $('#b').html(data[1].alternativa[0].b);
+  $('#c').html(data[1].alternativa[0].c);
 });
-
-
-
-//
-/*fetch("jon.json").then((Response) => {
-  Response.json().then((perguntas) => {
-    console.log(perguntas);
-  })
-});*/
-
-
-
 
      
 
