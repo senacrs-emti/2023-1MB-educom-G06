@@ -37,7 +37,7 @@
       var x = (data[questao].resposta);
       console.log(x);
       $('#r'+x.toLowerCase()).val('s');
-      return false
+    
     });
 
   });
