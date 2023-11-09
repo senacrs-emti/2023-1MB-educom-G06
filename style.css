@@ -77,6 +77,13 @@ input[type="submit"]{
     width: 100%;
 }
 
+#felipe a{
+    text-decoration: none;
+    background-color: #5a6268;
+    padding-left: 23%;
+    padding-right: 23%;
+}
+
 body{
     background-image: url(https://steamuserimages-a.akamaihd.net/ugc/785254538960148235/540CE3179B68243EEED7B516C57DD35E6A56F528/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true);
     background-repeat: no-repeat;
@@ -155,7 +162,7 @@ section{
     height: 50px;
 }
 
-a{
+.menu a{
     font-size: 30px;
     color: white;
     margin-top: 10px;
@@ -163,7 +170,7 @@ a{
     transition: 0.2s;
 }
 
-a:hover{
+.menu a:hover{
     text-decoration-line: overline underline;
     font-size: 33px;
     color: rgb(255, 255, 154);
