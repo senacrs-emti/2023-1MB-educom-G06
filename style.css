@@ -55,8 +55,8 @@ input[type="submit"]{
     font-size: 17px;
 }   
 
-#joao #perguntas{
-    height: 280px;
+#perguntas{
+    height: 300px;
     width: 50%;
     margin-left: 25%;
     background-color: rgba(6, 14, 20, 0.783);
@@ -64,11 +64,6 @@ input[type="submit"]{
     padding-left: 50px;
     padding-top: 20px;
     border-radius: 20px;
-}
-#joao{
-    height: 300px;
-    width: 100%;
-    color: white;
     font-family: 'mont';
 }
 
@@ -77,14 +72,19 @@ input[type="submit"]{
     width: 100%;
 }
 
-#felipe a{
+.modal-body a{
     text-decoration: none;
-    background-color: #5a6268;
-    padding-left: 23%;
-    padding-right: 23%;
+    color: white;
+    background-color: #676f75;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    display: flex;
+    margin-top: 10px;
+
 }
 
-body{
+.linha6{
     background-image: url(https://steamuserimages-a.akamaihd.net/ugc/785254538960148235/540CE3179B68243EEED7B516C57DD35E6A56F528/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true);
     background-repeat: no-repeat;
     background-size: 120%;
@@ -92,7 +92,11 @@ body{
     background-position-y: -60px;
     backdrop-filter: blur(3px);
     font-family: 'vanilla';
+    padding-bottom: 100px;
+    overflow: hidden;
+    color: white;
 }
+
 #botaolipe{
     border-radius: 2px;
     border: 2.5px black solid;
@@ -103,6 +107,7 @@ body{
 
 h5{
     font-size: 55px;
+    color: #676f75;
 }
 
 .modal-content{
@@ -116,7 +121,7 @@ h5{
 
 
 /*MENU*/
-main{
+.menu main{
     margin-top: 20px;
     width: 80%;
     margin-left: 10%;
@@ -184,7 +189,7 @@ section{
     color: gray;
 }
 
-h4 a{
+.menu h4 a{
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
     margin-top: 180px;
@@ -193,7 +198,7 @@ h4 a{
     margin: 0px;
 }
 
-h4 a:hover{
+.menu h4 a:hover{
     text-decoration-line: none;
     font-size: 15px;
 }
