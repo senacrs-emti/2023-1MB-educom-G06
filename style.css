@@ -119,6 +119,56 @@ h5{
     width: 100%;
 }
 
+.timeline{
+    width: 200%;
+}
+
+.line{
+    margin-top: 100px;
+    height: 10px;
+    width: 200%;
+    background-color: white;
+    border: 2px solid black;
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.596);
+}
+
+.balls{
+    float: left;
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.596);
+    border: 2px solid black;
+    border-radius: 100%;
+    margin-top: -30px;
+}
+
+.ball1{
+    margin-left: -1%;
+    animation-duration: 3s;
+    animation-name: bolas1;
+}
+
+@keyframes bolas1 {
+
+    from {
+        margin-left: 25%;
+    }
+
+    to {
+        margin-left: -1%;
+    }
+}
+
+.ball2{
+    margin-top: -30px;
+    margin-left: 23%;
+}
+
+.ball3{
+    margin-left: 23%;
+    background-color: yellow;
+}
 
 /*MENU*/
 .menu main{
