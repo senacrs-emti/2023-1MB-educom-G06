@@ -93,7 +93,6 @@ input[type="submit"]{
     backdrop-filter: blur(3px);
     font-family: 'vanilla';
     padding-bottom: 100px;
-    overflow: hidden;
     color: white;
 }
 
@@ -120,13 +119,13 @@ h5{
 }
 
 .timeline{
-    width: 200%;
+    width: 500%;
 }
 
 .line{
     margin-top: 100px;
     height: 10px;
-    width: 200%;
+    width: 100%;
     background-color: white;
     border: 2px solid black;
     box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.596);
@@ -143,31 +142,73 @@ h5{
     margin-top: -30px;
 }
 
-.ball1{
-    margin-left: -1%;
-    animation-duration: 3s;
-    animation-name: bolas1;
+.balls p{
+    margin-left: -18px;
+    margin-top: -30px;
+    text-align: center;
+    font-family: 'mont';
 }
 
-@keyframes bolas1 {
+.ball1{
+    margin-right: 9%;
+    opacity: 0;
+    animation-name: anim0;
+    animation-duration: 3s;
+}
+
+@keyframes anim0 {
 
     from {
-        margin-left: 25%;
+        margin-left: 10%;
     }
 
     to {
-        margin-left: -1%;
+        margin-left: 0%;
     }
 }
 
 .ball2{
     margin-top: -30px;
-    margin-left: 23%;
+    margin-right: 9.13%;
 }
 
-.ball3{
-    margin-left: 23%;
-    background-color: yellow;
+.ball3, .ball4, .ball5, .ball6, .ball7, .ball8, .ball9{
+    margin-right: 9.13%;
+}
+
+/*ANIMAÇÕES*/
+
+.animation2{
+    animation-name: anim2;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes anim2 {
+
+    from {
+        margin-left: 0%;
+    }
+
+    to {
+        margin-left: -10.2%;
+    }
+}
+
+.animation3{
+    animation-name: anim3;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes anim3 {
+    from {
+        margin-left: 23%;
+    }
+
+    to {
+        margin-left: -2%;
+    }
 }
 
 /*MENU*/

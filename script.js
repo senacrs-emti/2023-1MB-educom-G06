@@ -12,7 +12,11 @@
       if( $(this).val() == 's'){
           alert('Correto');
           resposta = true;
-      }else{
+
+          ball2.classList.toggle('animation2')
+
+        }
+      else{
           alert('Errado');
           
         }
