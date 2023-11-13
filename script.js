@@ -1,5 +1,4 @@
-
-  $(document).ready(function() {
+$(document).ready(function() {
 
   // clique no botao
   $("input[type='submit']").click(function() {
@@ -12,14 +11,42 @@
       if( $(this).val() == 's'){
           alert('Correto');
           resposta = true;
-
-          ball2.classList.toggle('animation2')
-
-        }
-      else{
-          alert('Errado');
+          var questao = parseInt($('#questao').val())+1;
           
-        }
+          switch (questao) {
+            case 2:
+              ball2.classList.toggle('animation2');    
+            break;
+            case 3:
+              ball3.classList.toggle('animation2');    
+            break;
+            case 4:
+              ball4.classList.toggle('animation2');    
+            break;
+            case 5:
+              ball5.classList.toggle('animation2');    
+            break;
+            case 6:
+              ball6.classList.toggle('animation2');    
+            break;
+            case 7:
+              ball7.classList.toggle('animation2');    
+            break;
+            case 8:
+              ball8.classList.toggle('animation2');    
+            break;
+            case 9:
+              ball9.classList.toggle('animation2');    
+            break;
+            case 10:
+              ball10.classList.toggle('animation2');    
+            break;
+          }
+          
+
+      }else{
+          alert('Errado');    
+      }
       // limpa o check de cada elementos
       $(this).prop('checked',false);
       $(this).val('e');
@@ -32,7 +59,7 @@
       $('#questao').val(questao);
     }
 
-    $.getJSON("jon.json", function (data) {
+    $.getJSON("6sf.json", function (data) {
       // adiciona a pergunta
       $('#perguntas h1').html(data[questao].pergunta);
       // respostas
@@ -47,7 +74,7 @@
 
   });
   
-$.getJSON("jon.json", function (data) {
+$.getJSON("6sf.json", function (data) {
 
   let questao = 0;
   // adiciona a questao
