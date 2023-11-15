@@ -14,7 +14,7 @@
 
 
 /*LINHA 6°*/
-.linha6{
+.series{
     background-image: url(https://steamuserimages-a.akamaihd.net/ugc/785254538960148235/540CE3179B68243EEED7B516C57DD35E6A56F528/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true);
     background-repeat: no-repeat;
     background-size: 120%;
@@ -103,6 +103,7 @@ input[type="submit"]{
     border: 2px solid black;
     border-radius: 100%;
     margin-top: -30px;
+    transition: background-color 1s ease;
 }
 
 .balls p{
@@ -288,6 +289,10 @@ section{
 
 h5{
     font-size: 55px;
+    color: #676f75;
+}
+
+h6{
     color: #676f75;
 }
 

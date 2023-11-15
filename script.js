@@ -15,34 +15,44 @@ $(document).ready(function() {
           
           switch (questao) {
             case 1:
-              ball1.classList.toggle('animation2');    
+              ball1.classList.toggle('animation2');
+              ball2.style.backgroundColor = 'rgb(0, 211, 0)';
             break;
-            case 2:
-              ball2.classList.toggle('animation3');    
+            case 2: 
+              ball2.classList.toggle('animation3');
+              ball3.style.backgroundColor = 'rgb(0, 211, 0)';
             break;
             case 3:
-              ball3.classList.toggle('animation3');    
+              ball3.classList.toggle('animation3'); 
+              ball4.style.backgroundColor = 'rgb(0, 211, 0)';   
             break;
-            case 4:
-              ball4.classList.toggle('animation3');    
+            case 4: 
+              ball4.classList.toggle('animation3');   
+              ball5.style.backgroundColor = 'rgb(0, 211, 0)';
             break;
             case 5:
-              ball5.classList.toggle('animation3');    
+              ball5.classList.toggle('animation3'); 
+              ball6.style.backgroundColor = 'rgb(0, 211, 0)';   
             break;
             case 6:
-              ball6.classList.toggle('animation3');    
+              ball6.classList.toggle('animation3'); 
+              ball7.style.backgroundColor = 'rgb(0, 211, 0)';   
             break;
             case 7:
-              ball7.classList.toggle('animation3');    
+              ball7.classList.toggle('animation3');  
+              ball8.style.backgroundColor = 'rgb(0, 211, 0)';  
             break;
             case 8:
-              ball8.classList.toggle('animation3');    
+              ball8.classList.toggle('animation3');  
+              ball9.style.backgroundColor = 'rgb(0, 211, 0)';  
             break;
             case 9:
-              ball9.classList.toggle('animation3');    
+              ball9.classList.toggle('animation3');  
+              ball10.style.backgroundColor = 'rgb(0, 211, 0)';  
             break;
             case 10:
-              ball10.classList.toggle('animation3');    
+              ball11.style.backgroundColor = 'rgb(0, 211, 0)';
+              submit.setAttribute('data-target', '#congratulations')
             break;
           }
           
