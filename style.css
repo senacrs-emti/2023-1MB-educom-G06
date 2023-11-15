@@ -14,6 +14,18 @@
 
 
 /*LINHA 6°*/
+.linha6{
+    background-image: url(https://steamuserimages-a.akamaihd.net/ugc/785254538960148235/540CE3179B68243EEED7B516C57DD35E6A56F528/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true);
+    background-repeat: no-repeat;
+    background-size: 120%;
+    background-position-x: -50px;
+    background-position-y: -60px;
+    backdrop-filter: blur(3px);
+    font-family: 'vanilla';
+    padding-bottom: 100px;
+    color: white;
+    overflow: hidden;
+}
 
 #joao h1{
     font-size: 17px;
@@ -25,97 +37,49 @@
 }
 #joao #perguntas ul li input[type="chekbox"]{
     margin-left: 10px;
-    border-radius: 200%;
     transition: 0.1s;
     cursor: pointer;
-    background-color: yellow;
 }
 
 input[type="submit"]{
     margin-top: 10px;
+    margin-bottom: 50px;
     font-size: 15px;
     border: none;
     border-radius: 3px;
 }
 
 #joao #perguntas ul li input{
-    margin-left: 0px;
     transition: 0.2s;
 }
 
 #joao #perguntas ul li input:checked{
-    margin-left: 5px;
-    margin-left: 15px;
+    margin-left: 10px;
 }
 
 #joao #perguntas ul li label{
-    margin-left: 2px;
     margin-left: 7px;
     margin-top: 6px;
     font-size: 17px;
 }   
 
 #perguntas{
-    height: 300px;
+    height: auto;
     width: 50%;
     margin-left: 25%;
     background-color: rgba(6, 14, 20, 0.783);
     box-shadow: 0px 0px 5px rgb(0, 0, 0);
     padding-left: 50px;
+    padding-right: 50px;
     padding-top: 20px;
     border-radius: 20px;
     font-family: 'mont';
 }
 
-#felipe{
+.top{
     height: 270px;
     width: 100%;
-}
-
-.modal-body a{
-    text-decoration: none;
-    color: white;
-    background-color: #676f75;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    border-radius: 5px;
-    display: flex;
-    margin-top: 10px;
-
-}
-
-.linha6{
-    background-image: url(https://steamuserimages-a.akamaihd.net/ugc/785254538960148235/540CE3179B68243EEED7B516C57DD35E6A56F528/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true);
-    background-repeat: no-repeat;
-    background-size: 120%;
-    background-position-x: -50px;
-    background-position-y: -60px;
-    backdrop-filter: blur(3px);
-    font-family: 'vanilla';
-    padding-bottom: 100px;
-    color: white;
-}
-
-#botaolipe{
-    border-radius: 2px;
-    border: 2.5px black solid;
-    background-image: linear-gradient(120deg, #7f7f7f, #969191);
-    box-shadow: 0px 5px 5px rgba(3, 0, 31, 0.555);
-    margin: 10px;
-}
-
-h5{
-    font-size: 55px;
-    color: #676f75;
-}
-
-.modal-content{
-    align-items: center;
-}
-
-.btn-secondary{
-    margin-top: 10px;
-    width: 100%;
+    overflow: hidden;
 }
 
 .timeline{
@@ -125,7 +89,6 @@ h5{
 .line{
     margin-top: 100px;
     height: 10px;
-    width: 100%;
     background-color: white;
     border: 2px solid black;
     box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.596);
@@ -143,40 +106,42 @@ h5{
 }
 
 .balls p{
-    margin-left: -18px;
+    width: 200px;
+    margin-left: -77px;
     margin-top: -30px;
     text-align: center;
     font-family: 'mont';
 }
 
+.ball2{
+    margin-top: -30px;
+    margin-right: 8.7%;
+}
+
+.ball3, .ball4, .ball5, .ball6, .ball7, .ball8, .ball9, .ball10{
+    margin-right: 8.7%;
+    animation-fill-mode: forwards;
+}
+
+/*ANIMAÇÕES*/
 .ball1{
-    margin-right: 9%;
+    margin-right: 8.7%;
     opacity: 0;
     animation-name: anim0;
-    animation-duration: 3s;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
 }
 
 @keyframes anim0 {
 
     from {
-        margin-left: 10%;
+        margin-left: 4.6%;
     }
 
     to {
-        margin-left: 0%;
+        margin-left: 0.15%;
     }
 }
-
-.ball2{
-    margin-top: -30px;
-    margin-right: 9.13%;
-}
-
-.ball3, .ball4, .ball5, .ball6, .ball7, .ball8, .ball9{
-    margin-right: 9.13%;
-}
-
-/*ANIMAÇÕES*/
 
 .animation2{
     animation-name: anim2;
@@ -191,7 +156,7 @@ h5{
     }
 
     to {
-        margin-left: -10.2%;
+        margin-left: -9.3%;
     }
 }
 
@@ -202,12 +167,30 @@ h5{
 }
 
 @keyframes anim3 {
+
     from {
-        margin-left: 23%;
+        margin-left: 0%;
     }
 
     to {
-        margin-left: -2%;
+        margin-left: -9.5%;
+    }
+}
+
+.animation4{
+    animation-name: anim4;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes anim4 {
+
+    from {
+        margin-left: 0%;
+    }
+
+    to {
+        margin-left: -9.7%;
     }
 }
 
@@ -292,4 +275,38 @@ section{
 .menu h4 a:hover{
     text-decoration-line: none;
     font-size: 15px;
+}
+
+/*PAUSE*/
+#botaolipe{
+    border-radius: 2px;
+    border: 2.5px black solid;
+    background-image: linear-gradient(120deg, #7f7f7f, #969191);
+    box-shadow: 0px 5px 5px rgba(3, 0, 31, 0.555);
+    margin: 10px;
+}
+
+h5{
+    font-size: 55px;
+    color: #676f75;
+}
+
+.modal-content{
+    align-items: center;
+}
+
+.btn-secondary{
+    margin-top: 10px;
+    width: 100%;
+}
+
+.modal-body a{
+    text-decoration: none;
+    color: white;
+    background-color: #676f75;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    display: flex;
+    margin-top: 10px;
 }

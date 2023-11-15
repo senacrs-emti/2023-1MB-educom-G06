@@ -14,32 +14,35 @@ $(document).ready(function() {
           var questao = parseInt($('#questao').val())+1;
           
           switch (questao) {
+            case 1:
+              ball1.classList.toggle('animation2');    
+            break;
             case 2:
-              ball2.classList.toggle('animation2');    
+              ball2.classList.toggle('animation3');    
             break;
             case 3:
-              ball3.classList.toggle('animation2');    
+              ball3.classList.toggle('animation3');    
             break;
             case 4:
-              ball4.classList.toggle('animation2');    
+              ball4.classList.toggle('animation3');    
             break;
             case 5:
-              ball5.classList.toggle('animation2');    
+              ball5.classList.toggle('animation3');    
             break;
             case 6:
-              ball6.classList.toggle('animation2');    
+              ball6.classList.toggle('animation3');    
             break;
             case 7:
-              ball7.classList.toggle('animation2');    
+              ball7.classList.toggle('animation3');    
             break;
             case 8:
-              ball8.classList.toggle('animation2');    
+              ball8.classList.toggle('animation3');    
             break;
             case 9:
-              ball9.classList.toggle('animation2');    
+              ball9.classList.toggle('animation3');    
             break;
             case 10:
-              ball10.classList.toggle('animation2');    
+              ball10.classList.toggle('animation3');    
             break;
           }
           
