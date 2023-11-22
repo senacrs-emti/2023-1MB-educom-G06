@@ -1,57 +1,57 @@
 [
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Qual dos locais abaixo NÃO foi uma das Treze Colônias originais?",
+        "resposta": "A",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Flórida ",
+            "B": " Maryland",
+            "C": "Delaware"
         }]
         
     },
     {
-    "pergunta": "",
-    "resposta": "",
+    "pergunta": " No contexto da colonização inglesa da América do Norte, quem eram os servos temporários? ",
+    "resposta": "A",
     "alternativa": [{
-        "A": "",
-        "B": "",
-        "C": ""
+        "A": "Pessoas que tinham as despesas de viagem pagas e pagavam sua dívida por meio do trabalho  ",
+        "B": "Pessoas em uma modalidade de trabalho que era imposta aos colonos puritanos",
+        "C": "Pessoas que eram condenadas a ser escravas por cinco anos na América do Norte"
     }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "A colonização inglesa ficou marcada por estabelecer um controle fraco sobre suas colônias na América do Norte, dando-lhes grande autonomia. Qual das opções abaixo explica uma característica que não reflete isto?",
+        "resposta": "A",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "A adoção do modelo de colônia de povoamento pela coroa inglesa ",
+            "B": "As disputas entre nobreza e burguesia pelo poder ",
+            "C": "As transformações em curso pela modernização do país "
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": " O nome da colônia de Virgínia foi uma referência a que personalidade? ",
+        "resposta": "C",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": " Maria da Escócia ",
+            "B": "Santa Maria ",
+            "C": "Elizabeth I "
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "No contexto da colonização inglesa da América do Norte, quem eram os servos temporários    ",
+        "resposta": "A",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Pessoas que tinham as despesas de viagem pagas e pagavam sua dívida por meio do trabalho. ",
+            "B": "Pessoas que eram condenadas a ser escravas por cinco anos na América do Norte.",
+            "C": "- Índios que eram obrigados a trabalhar por três anos de graça para os ingleses. "
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Uma das empresas que foram autorizadas pela coroa inglesa a realizar o trabalho de colonização da América do Norte durante o século XVII foi a:",
+        "resposta": "A",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "- Plymouth Company ",
+            "B": "Liverpool Corporation ",
+            "C": "Não houve envolvimento de empresas na colonização inglesa"
         }]
     },
     {

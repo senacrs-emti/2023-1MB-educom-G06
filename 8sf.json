@@ -1,93 +1,93 @@
 [
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": " Qual a principal característica do pensamento iluminista?",
+        "resposta": "C",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "A retomada de temáticas gregas, com ênfase no culto ao corpo",
+            "B": " A busca pela representação dos sonhos e sentimentos",
+            "C": "A valorização da razão em detrimento da fé "
         }]
         
     },
     {
-    "pergunta": "",
-    "resposta": "",
+    "pergunta": "Quais novas classes sociais surgiram com o advento da industrialização?",
+    "resposta": "B",
     "alternativa": [{
-        "A": "",
-        "B": "",
-        "C": ""
+        "A": "Burguesia e escravos",
+        "B": " Burguesia e proletariado",
+        "C": "Nobreza e camponeses"
     }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Onde começou a Revolução Industrial?",
+        "resposta": "A",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Inglaterra",
+            "B": "Rússia",
+            "C": "Brasil"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": " Qual marco deu início a Revolução Francesa?",
+        "resposta": "A",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "A Tomada da Bastilha",
+            "B": "O fim da escravidão",
+            "C": " A queda do muro de Berlim"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Qual o lema da Revolução Francesa?",
+        "resposta": "C",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Liberdade, equidade, solidariedade",
+            "B": "Ordem e progresso",
+            "C": "Liberdade, igualdade, fraternidade"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": " O último rei francês foi decapitado junto com a sua família durante a revolução. Ele se chamava: ",
+        "resposta": "B",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Napoleão Bonaparte",
+            "B": "Luís XVI",
+            "C": " Charles II "
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Durante a Revolução Francesa, utilizou-se um marcante instrumento de execução. Este instrumento foi",
+        "resposta": "A",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Guilhotina",
+            "B": "Cadeira elétrica",
+            "C": "Câmara de gás"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Qual general de guerra assumiu o poder na França após a Revolução das Françasa?",
+        "resposta": "B",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Júlio Cesar",
+            "B": "Napoleão Bonaparte",
+            "C": "Alexandre de Lameth"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Após não conseguir invadir a Inglaterra, Napoleão propõe uma ideia, que levaria a ilha britânica a falência. Que ideia foi esta?",
+        "resposta": "A",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": " O Bloqueio Continental",
+            "B": "A Batalha de Waterloo",
+            "C": " O Cavalo de Troia"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "O Futebol é um esporte popular em toda a América do Sul, onde sua principal competição recebe o nome de “Libertadores da América”. Por quê?",
+        "resposta": "B",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Por conta dos inúmeros países livres do continente",
+            "B": " Pois homenageia figuras históricas que promoveram a independência no continente",
+            "C": "Pois faz referência aos povos africanos e indígenas libertados pelos europeus"
         }]
     }
 ]

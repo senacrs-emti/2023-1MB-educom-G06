@@ -1,13 +1,22 @@
 [
     {
-        "pergunta": "Durante o período da Idade Média se tem um dos maiores registros de epidemia da história, a peste bubônica, esta peste era transmitida por:",
         "resposta": "A",
+        "pergunta": "Durante o período da Idade Média se tem um dos maiores registros de epidemia da história, a peste bubônica, esta peste era transmitida por:",
         "alternativa": [{
             "A": "Ratos com pulgas infectadas",
             "B": "Pássaros infectados",
             "C": "Pelo ar"
         }]
         
+     },
+     {
+        "pergunta": " A capital do império Inca:",
+        "resposta": "A",
+        "alternativa": [{
+            "A": "Cuzco",
+            "B": " Machu Picchu ",
+            "C": " Tenochtitlan"
+        }]
     },
     {
     "pergunta": "O conflito travado entres franceses e ingleses conhecido como “Guerra dos 100 Anos” ficou marcado na história da Europa. Dito isto, o motivo que deu início a guerra foi:",
@@ -37,57 +46,49 @@
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": " A escravidão no Brasil é uma mancha bem recente, durante este tempo 2 grupos bem envolvidos nesta questão entravam em conflitos diversas vezes e estes eram: ",
+        "resposta": "C",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Fazendeiros e Escravos ",
+            "B": "Jesuítas e Escravos",
+            "C": "Jesuítas e Fazendeiros"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": " A escravidão no Brasil afetou muitos povos de diferentes locais, alguns deles foram os povos originários do Brasil, mas, existe uma peculiaridade no caso dos povos originários. Ela era: ",
+        "resposta": "B",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "A FUNAI protegia os indígenas dos escravocratas",
+            "B": "Os jesuítas queriam catequizar os indígenas",
+            "C": "As revoluções indígenas conquistaram a liberdade depois da Guerra dos Farrapos"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Quais produtos movimentavam a economia do Brasil no século XVI? ",
+        "resposta": "C",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Açucar e café ",
+            "B": "Ouro e diamante",
+            "C": "Pau-Brasil e drogas do Sertão"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Quem foi o primeiro governador-geral do Brasil?",
+        "resposta": "B",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": " Duarte da Costa",
+            "B": " Tomé de Souza ",
+            "C": "Getúlio Vargas"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "A primeira capital do Brasil foi: ",
+        "resposta": "B",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
-        }]
-    },
-    {
-        "pergunta": "",
-        "resposta": "",
-        "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": " Manaus ",
+            "B": " Salvador ",
+            "C": " Rio de Janeiro"
         }]
     }
+    
 ]

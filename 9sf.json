@@ -1,93 +1,93 @@
 [
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Quais os principais países da Tríplice Aliança?",
+        "resposta": "A",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Alemanha, Império Austro-Húngaro, Itália",
+            "B": "França, China, Japão",
+            "C": "Canada, Império Mongol, Itália"
         }]
         
     },
     {
-    "pergunta": "",
-    "resposta": "",
+    "pergunta": "Quais os principais países da Tríplice Entente?",
+    "resposta": "C",
     "alternativa": [{
-        "A": "",
-        "B": "",
-        "C": ""
+        "A": "Egito, Brasil, África do Sul",
+        "B": "Irlanda do Norte, China, Austrália",
+        "C": "França, Inglaterra, Rússia"
     }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Qual país rompeu com a Alemanha e se uniu à Tríplice Entente? ",
+        "resposta": "C",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Rússia",
+            "B": "Império Austro-Húngaro",
+            "C": "Itália"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Por qual motivo os Estados Unidos da América ingressou na Primeira Guerra Mundial? ",
+        "resposta": "A",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Por conta de ataques alemães aos seus navios cargueiros",
+            "B": "Pois tiveram seu território invadido pela Tríplice Aliança",
+            "C": "Por conta do aprisionamento de turistas americanos na Alemanha"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": " Por qual motivo a Rússia saiu da Primeira Guerra Mundial?",
+        "resposta": "A",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "As crises sociais e a revolução socialista",
+            "B": "A falta de mantimentos",
+            "C": " A queda na bolsa de valores"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "O Tratado de Versalhes encerrou oficialmente a Primeira Guerra Mundial. Qual país foi obrigado a assiná-lo?",
+        "resposta": "B",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Inglaterra",
+            "B": " Alemanha ",
+            "C": "França"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "O que deu início a Segunda Guerra Mundial?",
+        "resposta": "A",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "A invasão da Polônia pela Alemanha",
+            "B": "O ataque do Japão à Pearl Harbor",
+            "C": "A invasão nazista à Amazônia"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Como se chamavam os dois lados que se enfrentaram na Segunda Guerra Mundial? ",
+        "resposta": "B",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": " Potências e Aliados",
+            "B": "Aliados e Eixo",
+            "C": " Forças Expedicionárias e Nazistas"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Antes da FEB (Força Expedicionária Brasileira) entrar na Guerra, popularizou-se um ditado de provocação, que futuramente tornou-se seu símbolo. Que ditado era este?",
+        "resposta": "C",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Quem é vivo sempre aparece",
+            "B": "Quem ri por último ri melhor",
+            "C": "A cobra vai fumar"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Onde foi a invasão conhecida como Dia D? ",
+        "resposta": "A",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Normandia",
+            "B": "Hungria",
+            "C": "Noruega"
         }]
     }
 ]
