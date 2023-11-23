@@ -1,10 +1,10 @@
 [
     {
-        "pergunta": " Qual a principal característica do pensamento iluminista?",
+        "pergunta": "Qual a principal característica do pensamento iluminista?",
         "resposta": "C",
         "alternativa": [{
             "A": "A retomada de temáticas gregas, com ênfase no culto ao corpo",
-            "B": " A busca pela representação dos sonhos e sentimentos",
+            "B": "A busca pela representação dos sonhos e sentimentos",
             "C": "A valorização da razão em detrimento da fé "
         }]
         
@@ -14,7 +14,7 @@
     "resposta": "B",
     "alternativa": [{
         "A": "Burguesia e escravos",
-        "B": " Burguesia e proletariado",
+        "B": "Burguesia e proletariado",
         "C": "Nobreza e camponeses"
     }]
     },
@@ -28,12 +28,12 @@
         }]
     },
     {
-        "pergunta": " Qual marco deu início a Revolução Francesa?",
+        "pergunta": "Qual marco deu início a Revolução Francesa?",
         "resposta": "A",
         "alternativa": [{
             "A": "A Tomada da Bastilha",
             "B": "O fim da escravidão",
-            "C": " A queda do muro de Berlim"
+            "C": "A queda do muro de Berlim"
         }]
     },
     {
@@ -46,12 +46,12 @@
         }]
     },
     {
-        "pergunta": " O último rei francês foi decapitado junto com a sua família durante a revolução. Ele se chamava: ",
+        "pergunta": "O último rei francês foi decapitado junto com a sua família durante a revolução. Ele se chamava:",
         "resposta": "B",
         "alternativa": [{
             "A": "Napoleão Bonaparte",
             "B": "Luís XVI",
-            "C": " Charles II "
+            "C": "Charles II"
         }]
     },
     {
@@ -64,7 +64,7 @@
         }]
     },
     {
-        "pergunta": "Qual general de guerra assumiu o poder na França após a Revolução das Françasa?",
+        "pergunta": "Qual general de guerra assumiu o poder na França após a Revolução das Francesa?",
         "resposta": "B",
         "alternativa": [{
             "A": "Júlio Cesar",
@@ -76,9 +76,9 @@
         "pergunta": "Após não conseguir invadir a Inglaterra, Napoleão propõe uma ideia, que levaria a ilha britânica a falência. Que ideia foi esta?",
         "resposta": "A",
         "alternativa": [{
-            "A": " O Bloqueio Continental",
+            "A": "O Bloqueio Continental",
             "B": "A Batalha de Waterloo",
-            "C": " O Cavalo de Troia"
+            "C": "O Cavalo de Troia"
         }]
     },
     {
@@ -86,8 +86,8 @@
         "resposta": "B",
         "alternativa": [{
             "A": "Por conta dos inúmeros países livres do continente",
-            "B": " Pois homenageia figuras históricas que promoveram a independência no continente",
-            "C": "Pois faz referência aos povos africanos e indígenas libertados pelos europeus"
+            "B": "Homenageia figuras históricas que promoveram a independência no continente",
+            "C": "Faz referência aos povos africanos e indígenas libertados pelos europeus"
         }]
     }
 ]

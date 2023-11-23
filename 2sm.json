@@ -1,93 +1,93 @@
 [
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Que batalha decretou o fim da Era Napoleônica?",
+        "resposta": "A",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "A Batalha de Waterloo",
+            "B": "A Batalha de Poitiers",
+            "C": "A Batalha de Stalingrado"
         }]
         
     },
     {
-    "pergunta": "",
-    "resposta": "",
+    "pergunta": "Promulgada em 1824, a constituição do Brasil estabelecia o voto:",
+    "resposta": "B",
     "alternativa": [{
-        "A": "",
-        "B": "",
-        "C": ""
+        "A": "De Cabresto",
+        "B": "Censitário",
+        "C": "Proporcional"
     }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Durante o Período Regencial houve diversas revoltas, dentre elas estão:",
+        "resposta": "B",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "A Guerra dos Canudos, a Revolta da Chibatada e a Revolução Farroupilha",
+            "B": "A Cabanagem, a Revolução Farroupilha e a Balaiada",
+            "C": "O Levante de Copacabana, a Revolta Armada e a Sabinada"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Um importante período da história brasileira teve início com o Golpe da Maioridade, quando D. Pedro II assume o poder aos 14 anos. Este período é conhecido como:",
+        "resposta": "A",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Segundo Reinado",
+            "B": "Período das Regências",
+            "C": "Era Napoleônica"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "No ano de 1861 iniciou-se uma guerra entre o Norte e Sul do Estados Unidos, em que o Sul utilizava da exploração e mão de obra escrava, enquanto o Norte se baseava na industrialização e no protecionismo. Que guerra foi esta?",
+        "resposta": "C",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "A Guerra dos Farrapos",
+            "B": "A Guerra dos Canudos",
+            "C": "A Guerra de Secessão"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Durante o reinado de D. Pedro II ocorreu a Guerra do Paraguai. Nessa guerra, três países lutaram contra o Paraguai por meio da Tríplice Platina. Estes países são:",
+        "resposta": "C",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Uruguai, Bolívia e Argentina",
+            "B": "Colômbia, Bolívia e Brasil",
+            "C": "Brasil, Argentina e Uruguai"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "O Neocolonialismo do século XIX foi o processo de colonização, por países capitalistas, de países:",
+        "resposta": "B",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Da América Latina e da África",
+            "B": "Da África e da Ásia",
+            "C": "Da Oceania e da Antártica"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Com a participação de 14 países, a Conferência de Berlim foi responsável por:",
+        "resposta": "B",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Declarar a independência de colônias africanas e asiáticas",
+            "B": "Partilhar a África",
+            "C": "Reerguer o comércio açucareiro"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Quem assinou a lei Áurea, responsável por abolir a escravidão no Brasil?",
+        "resposta": "C",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "D. Pedro II",
+            "B": "Getúlio Vargas",
+            "C": "Princesa Isabel"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "O Segundo Reinado encerrou-se também de forma marcante, quando ocorreu a:",
+        "resposta": "A",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Proclamação da República",
+            "B": "Coroação de D. Pedro III e o início do Terceiro Reinado",
+            "C": "Queda na bolsa de valores"
         }]
     }
 ]

@@ -1,93 +1,93 @@
 [
     {
-        "pergunta": "Qual dos locais abaixo NÃO foi uma das Treze Colônias originais?",
-        "resposta": "A",
+        "pergunta": "Durante os séculos XV e XVI, um importante império tornou-se a maior potência do mundo, graças as suas expedições ao redor do globo terrestre. Que império foi este?",
+        "resposta": "B",
         "alternativa": [{
-            "A": "Flórida ",
-            "B": " Maryland",
-            "C": "Delaware"
+            "A": "Inglaterra",
+            "B": "Portugal",
+            "C": "China"
         }]
         
     },
     {
-    "pergunta": " No contexto da colonização inglesa da América do Norte, quem eram os servos temporários? ",
+    "pergunta": "Uma das empresas que foram autorizadas pela coroa inglesa a realizar o trabalho de colonização da América do Norte durante o século XVII foi a:",
     "resposta": "A",
     "alternativa": [{
-        "A": "Pessoas que tinham as despesas de viagem pagas e pagavam sua dívida por meio do trabalho  ",
-        "B": "Pessoas em uma modalidade de trabalho que era imposta aos colonos puritanos",
-        "C": "Pessoas que eram condenadas a ser escravas por cinco anos na América do Norte"
+        "A": "Plymouth Company",
+        "B": "Liverpool Corporation",
+        "C": "Não houve envolvimento de empresas na colonização inglesa"
     }]
     },
     {
-        "pergunta": "A colonização inglesa ficou marcada por estabelecer um controle fraco sobre suas colônias na América do Norte, dando-lhes grande autonomia. Qual das opções abaixo explica uma característica que não reflete isto?",
+        "pergunta": "Qual dos locais abaixo não foi uma das Treze Colônias originais?",
         "resposta": "A",
         "alternativa": [{
-            "A": "A adoção do modelo de colônia de povoamento pela coroa inglesa ",
-            "B": "As disputas entre nobreza e burguesia pelo poder ",
-            "C": "As transformações em curso pela modernização do país "
+            "A": "Flórida",
+            "B": "Maryland",
+            "C": "Delaware"
         }]
     },
     {
-        "pergunta": " O nome da colônia de Virgínia foi uma referência a que personalidade? ",
+        "pergunta": "O nome da colônia de Virgínia foi uma referência a que personalidade?",
         "resposta": "C",
         "alternativa": [{
-            "A": " Maria da Escócia ",
-            "B": "Santa Maria ",
-            "C": "Elizabeth I "
+            "A": "Maria da Escócia",
+            "B": "Santa Maria",
+            "C": "Elizabeth I"
         }]
     },
     {
-        "pergunta": "No contexto da colonização inglesa da América do Norte, quem eram os servos temporários    ",
+        "pergunta": "No contexto da colonização inglesa da América do Norte, quem eram os servos temporários?",
         "resposta": "A",
         "alternativa": [{
-            "A": "Pessoas que tinham as despesas de viagem pagas e pagavam sua dívida por meio do trabalho. ",
-            "B": "Pessoas que eram condenadas a ser escravas por cinco anos na América do Norte.",
-            "C": "- Índios que eram obrigados a trabalhar por três anos de graça para os ingleses. "
+            "A": "Pessoas que tinham as despesas de viagem pagas e pagavam sua dívida por meio do trabalho",
+            "B": "Pessoas em uma modalidade de trabalho que era imposta aos colonos puritanos",
+            "C": "Pessoas que eram condenadas a ser escravas por cinco anos na América do Norte"
         }]
     },
     {
-        "pergunta": "Uma das empresas que foram autorizadas pela coroa inglesa a realizar o trabalho de colonização da América do Norte durante o século XVII foi a:",
+        "pergunta": "A colonização inglesa ficou marcada por estabelecer um controle fraco sobre suas colônias na América do Norte, dando-lhes grande autonomia. Qual das opções abaixo explica uma característica que não reflete isto?",
+        "resposta": "B",
+        "alternativa": [{
+            "A": "As disputas entre nobreza e burguesia pelo poder",
+            "B": "A adoção do modelo de colônia de povoamento pela coroa inglesa",
+            "C": "As transformações em curso pela modernização do país"
+        }]
+    },
+    {
+        "pergunta": "Quais eram os sistemas políticos praticados na Inglaterra antes e depois da Revolução Inglesa, respectivamente?",
+        "resposta": "C",
+        "alternativa": [{
+            "A": "Monarquia imperialista e capitalismo",
+            "B": "Monarquia constitucional e monarquia parlamentarista",
+            "C": "Monarquia absolutista e monarquia parlamentarista"
+        }]
+    },
+    {
+        "pergunta": "O Congresso de Viena ocorreu após qual fenômeno histórico?",
+        "resposta": "B",
+        "alternativa": [{
+            "A": "A queda do Muro de Berlim",
+            "B": "Era Napoleônica",
+            "C": "O Segundo Reinado"
+        }]
+    },
+    {
+        "pergunta": "O evento que desencadeou a Primeira Guerra Mundial foi:",
         "resposta": "A",
         "alternativa": [{
-            "A": "- Plymouth Company ",
-            "B": "Liverpool Corporation ",
-            "C": "Não houve envolvimento de empresas na colonização inglesa"
+            "A": "O assassinato do arquiduque da Áustria-Hungria",
+            "B": "A invasão da Polonia",
+            "C": "O fim da revolução russa"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Em qual guerra decorreu a batalha das Ardenas?",
+        "resposta": "C",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
-        }]
-    },
-    {
-        "pergunta": "",
-        "resposta": "",
-        "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
-        }]
-    },
-    {
-        "pergunta": "",
-        "resposta": "",
-        "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
-        }]
-    },
-    {
-        "pergunta": "",
-        "resposta": "",
-        "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Primeira guerra mundial",
+            "B": "Guerra Fria",
+            "C": "Segunda Guerra Mundial"
         }]
     }
 ]

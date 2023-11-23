@@ -10,7 +10,7 @@
         
     },
     {
-    "pergunta": "O período neolítico foi muito marcado pelo domínio da agricultura, o começo das primeiras cidades e um abandono geral de um certo comportamento:",
+    "pergunta": "O período neolítico foi muito marcado pelo domínio da agricultura, o começo das primeiras cidades e um abandono gradual de um certo comportamento:",
     "resposta": "B",
     "alternativa": [{
         "A": "O comportamento sedentário",
@@ -19,29 +19,29 @@
     }]
     },
     {
-        "pergunta": "Depois da criação e expansão das primeiras cidades, os povos se encontravam em uma situação em que a disputa por espaço e recursos se tornava inevitável. Um dos povos mais lembrados deste período foram os:",
+        "pergunta": "Depois da criação e expansão das primeiras cidades, os povos do Crescente Fértil se encontravam em uma situação em que a disputa por espaço e recursos se tornava inevitável. Um dos povos mais lembrados deste período foram os:",
         "resposta": "C",
         "alternativa": [{
-            "A": "Fenícios ",
-            "B": "Minoicos",
+            "A": "Mongóis",
+            "B": "Incas",
             "C": "Babilônicos"
         }]
     },
     {
-        "pergunta": "Por volta dos anos 3.500 a.C os povos nomos se uniram formando o Alto Egito (no Sul) e o Baixo Egito (no Norte). Estes dois reinos foram então, unificados em apenas um, por um homem chamado “Menés” que era:",
+        "pergunta": "Por volta dos anos 3.500 a.C os povos nomos do Norte da África se uniram formando o Alto Egito (no Sul) e o Baixo Egito (no Norte). Estes dois reinos foram então, unificados em apenas um, por um homem chamado “Menés” que era:",
         "resposta": "B",
         "alternativa": [{
-            "A": "Menés rei do Baixo Egito  ",
-            "B": "Menés rei do Alto Egito ",
-            "C": "Menés chefe militar do Alto Egito "
+            "A": "Menés rei do Baixo Egito",
+            "B": "Menés rei do Alto Egito",
+            "C": "Menés chefe militar do Alto Egito"
         }]
     },
     {
-        "pergunta": "Após a união do Egito, o povo agora unificado precisava de um lider que foi nomeado de faraó. Quem foi este primeiro faraó? ",
+        "pergunta": "Após a unificação, o povo egípcio precisava de um líder que foi nomeado de faraó. Quem foi este primeiro faraó?",
         "resposta": "B",
         "alternativa": [{
             "A": "Ramsés II",
-            "B": "Menés ",
+            "B": "Menés",
             "C": "Ramsés I"
         }]
     },
@@ -55,19 +55,19 @@
         }]
     },
     {
-        "pergunta": "Um ponto muito destacável da Grécia era seu modelo de governo que é conhecido até hoje. Um de seus principais modelos era chamado de “Democracia”. Como se baseava este modelo?",
+        "pergunta": "Um ponto muito destacável da cidade-Estado Atenas era seu modelo de governo que é conhecido até hoje. Essa forma de governar era chamada de “Democracia”. Como se baseava em um sistema onde:",
         "resposta": "C",
         "alternativa": [{
-            "A": "Um sistema onde todo o povo pode ter sua voz e podem ter seus direitos",
-            "B": "Um sistema onde todos os homens são iguais e tem os mesmos direitos",
-            "C": "Um sistema onde apenas os homens livres e atenienses poderiam votar"
+            "A": "Todo o povo pode ter sua voz e podem ter seus direitos",
+            "B": "Todos os homens são iguais e tem os mesmos direitos",
+            "C": "Apenas os homens livres e atenienses poderiam votar"
         }]
     },
     {
-        "pergunta": "Atenas e Sparta sempre estiveram e conflito. Qual foi uma das mais importantes guerras entre eles?  ",
+        "pergunta": "Atenas e Esparta vivenciaram alguns conflitos ao longo do período Helênico. Dentre esses conflitos, qual foi o mais importante?",
         "resposta": "B",
         "alternativa": [{
-            "A": "Guerra de Tróia ",
+            "A": "Guerra de Tróia",
             "B": "Guerra do Peloponeso",
             "C": "As Guerras Médicas"
         }]
@@ -78,16 +78,16 @@
         "alternativa": [{
             "A": "O Coliseu",
             "B": "Obelisco de Roma",
-            "C": "Torre de Pizza"
+            "C": "Torre de Pisa"
         }]
     },
     {
         "pergunta": "Após a queda de Roma surgiram dois impérios. Quais eram seus nomes? ",
         "resposta": "C",
         "alternativa": [{
-            "A": "Império Bizantino e Roma do Ocidente ",
+            "A": "Império Bizantino e Império Romano do Ocidente",
             "B": "Império Bizantino e Roma do Oriente",
-            "C": "Roma do Ocidente e Roma do Oriente "
+            "C": "Império Romano do Ocidente e Império Romano do Oriente"
         }]
     }
 ]

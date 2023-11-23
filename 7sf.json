@@ -1,21 +1,21 @@
 [
     {
-        "resposta": "A",
         "pergunta": "Durante o período da Idade Média se tem um dos maiores registros de epidemia da história, a peste bubônica, esta peste era transmitida por:",
+        "resposta": "A",
         "alternativa": [{
             "A": "Ratos com pulgas infectadas",
             "B": "Pássaros infectados",
-            "C": "Pelo ar"
+            "C": "Mordida de cães"
         }]
         
      },
      {
-        "pergunta": " A capital do império Inca:",
-        "resposta": "A",
+        "pergunta": "Qual era a capital do império Inca?",
+        "resposta": "B",
         "alternativa": [{
-            "A": "Cuzco",
-            "B": " Machu Picchu ",
-            "C": " Tenochtitlan"
+            "A": "Machu Picchu",
+            "B": "Cuzco",
+            "C": "Tenochtitlan"
         }]
     },
     {
@@ -28,7 +28,7 @@
     }]
     },
     {
-        "pergunta": "Hoje em dia pode até ser motivo de piadas o fato de o período ser chamado de “idade média”, afinal, realmente é estranho pensar em alguém nomeando o que na época seria o presente com este termo. Isto acontece pois o termo foi criado:",
+        "pergunta": "Hoje em dia pode até ser motivo de piadas o fato de um período histórico período ser chamado de “idade média”, afinal, realmente é estranho pensar em alguém nomeando o que na época seria o presente com este termo. Isto acontece pois o termo foi criado posteriormente:",
         "resposta": "C",
         "alternativa": [{
             "A": "Por estudiosos do século XX",
@@ -46,7 +46,7 @@
         }]
     },
     {
-        "pergunta": " A escravidão no Brasil é uma mancha bem recente, durante este tempo 2 grupos bem envolvidos nesta questão entravam em conflitos diversas vezes e estes eram: ",
+        "pergunta": "A escravidão no Brasil é uma mancha recente, durante este período dois grupos envolvidos nesta questão entravam em conflitos diversas vezes. Estes eram os:",
         "resposta": "C",
         "alternativa": [{
             "A": "Fazendeiros e Escravos ",
@@ -55,7 +55,7 @@
         }]
     },
     {
-        "pergunta": " A escravidão no Brasil afetou muitos povos de diferentes locais, alguns deles foram os povos originários do Brasil, mas, existe uma peculiaridade no caso dos povos originários. Ela era: ",
+        "pergunta": "A escravidão no Brasil afetou muitos povos de diferentes locais, alguns deles foram os povos originários do Brasil, mas existe uma peculiaridade no caso dos povos originários. Ela era:",
         "resposta": "B",
         "alternativa": [{
             "A": "A FUNAI protegia os indígenas dos escravocratas",
@@ -64,7 +64,7 @@
         }]
     },
     {
-        "pergunta": "Quais produtos movimentavam a economia do Brasil no século XVI? ",
+        "pergunta": "Quais produtos movimentavam a economia do Brasil no século XVI?",
         "resposta": "C",
         "alternativa": [{
             "A": "Açucar e café ",
@@ -76,18 +76,18 @@
         "pergunta": "Quem foi o primeiro governador-geral do Brasil?",
         "resposta": "B",
         "alternativa": [{
-            "A": " Duarte da Costa",
-            "B": " Tomé de Souza ",
+            "A": "Duarte da Costa",
+            "B": "Tomé de Souza",
             "C": "Getúlio Vargas"
         }]
     },
     {
-        "pergunta": "A primeira capital do Brasil foi: ",
+        "pergunta": "A primeira capital do Brasil foi:",
         "resposta": "B",
         "alternativa": [{
-            "A": " Manaus ",
-            "B": " Salvador ",
-            "C": " Rio de Janeiro"
+            "A": "Manaus",
+            "B": "Salvador",
+            "C": "Rio de Janeiro"
         }]
     }
     

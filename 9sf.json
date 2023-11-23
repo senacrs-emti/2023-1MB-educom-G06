@@ -1,6 +1,6 @@
 [
     {
-        "pergunta": "Quais os principais países da Tríplice Aliança?",
+        "pergunta": "Quais os principais países da Tríplice Aliança no contexto europeu do século XIX?",
         "resposta": "A",
         "alternativa": [{
             "A": "Alemanha, Império Austro-Húngaro, Itália",
@@ -10,7 +10,7 @@
         
     },
     {
-    "pergunta": "Quais os principais países da Tríplice Entente?",
+    "pergunta": "Quais os principais países da Tríplice Entente no contexto europeu do século XX?",
     "resposta": "C",
     "alternativa": [{
         "A": "Egito, Brasil, África do Sul",
@@ -19,7 +19,7 @@
     }]
     },
     {
-        "pergunta": "Qual país rompeu com a Alemanha e se uniu à Tríplice Entente? ",
+        "pergunta": "Qual país rompeu com a Alemanha e se uniu à Tríplice Entente no contexto da Primeira Guerra Mundial?",
         "resposta": "C",
         "alternativa": [{
             "A": "Rússia",
@@ -28,7 +28,7 @@
         }]
     },
     {
-        "pergunta": "Por qual motivo os Estados Unidos da América ingressou na Primeira Guerra Mundial? ",
+        "pergunta": "Por qual motivo os Estados Unidos da América ingressou na Primeira Guerra Mundial?",
         "resposta": "A",
         "alternativa": [{
             "A": "Por conta de ataques alemães aos seus navios cargueiros",
@@ -37,20 +37,20 @@
         }]
     },
     {
-        "pergunta": " Por qual motivo a Rússia saiu da Primeira Guerra Mundial?",
+        "pergunta": "Por qual motivo a Rússia saiu da Primeira Guerra Mundial?",
         "resposta": "A",
         "alternativa": [{
             "A": "As crises sociais e a revolução socialista",
-            "B": "A falta de mantimentos",
-            "C": " A queda na bolsa de valores"
+            "B": "A morte do czar",
+            "C": "A queda na bolsa de valores"
         }]
     },
     {
-        "pergunta": "O Tratado de Versalhes encerrou oficialmente a Primeira Guerra Mundial. Qual país foi obrigado a assiná-lo?",
+        "pergunta": "O Tratado de Versalhes encerrou oficialmente a Primeira Guerra Mundial. Qual país foi submetido aos termos do tratado?",
         "resposta": "B",
         "alternativa": [{
             "A": "Inglaterra",
-            "B": " Alemanha ",
+            "B": "Alemanha",
             "C": "França"
         }]
     },
@@ -64,25 +64,25 @@
         }]
     },
     {
-        "pergunta": "Como se chamavam os dois lados que se enfrentaram na Segunda Guerra Mundial? ",
+        "pergunta": "Como se chamavam os dois lados que se enfrentaram na Segunda Guerra Mundial?",
         "resposta": "B",
         "alternativa": [{
-            "A": " Potências e Aliados",
+            "A": "Potências e Aliados",
             "B": "Aliados e Eixo",
-            "C": " Forças Expedicionárias e Nazistas"
+            "C": "Forças Expedicionárias e Nazistas"
         }]
     },
     {
-        "pergunta": "Antes da FEB (Força Expedicionária Brasileira) entrar na Guerra, popularizou-se um ditado de provocação, que futuramente tornou-se seu símbolo. Que ditado era este?",
+        "pergunta": "Em meio a Segunda Guerra Mundial, surge a FEB (Força Expedicionária Brasileira), cujo brasão era uma cobra fumando. Qual o motivo da escolha deste símbolo?",
         "resposta": "C",
         "alternativa": [{
-            "A": "Quem é vivo sempre aparece",
-            "B": "Quem ri por último ri melhor",
-            "C": "A cobra vai fumar"
+            "A": "A mistura de um símbolo já utilizado (a cobra), com o cigarro, sinal de “Glamour” na época",
+            "B": "A popularidade do animal na cultura brasileira",
+            "C": "O popular ditado: “É mais fácil uma cobra fumar que o Brasil entrar na guerra”"
         }]
     },
     {
-        "pergunta": "Onde foi a invasão conhecida como Dia D? ",
+        "pergunta": "Onde foi a invasão conhecida como Dia D?",
         "resposta": "A",
         "alternativa": [{
             "A": "Normandia",

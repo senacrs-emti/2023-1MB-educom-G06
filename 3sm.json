@@ -1,93 +1,93 @@
 [
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Qual foi um dos mais importantes líderes da União soviética?",
+        "resposta": "A",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Leon Trótski",
+            "B": "Xi Jinping",
+            "C": "Josef Stalin"
         }]
         
     },
     {
-    "pergunta": "",
-    "resposta": "",
+    "pergunta": "Dentro da história um dos maiores períodos de conflito entre duas potencias foi a guerra fria que foi marcada por diversos conflitos geopolíticos no mundo, quais foram os seu principais?",
+    "resposta": "A",
     "alternativa": [{
-        "A": "",
-        "B": "",
-        "C": ""
+        "A": "Guerra da coreia, crise dos misseis de Cuba, Guerra do Vietnã e Guerra do Afeganistão",
+        "B": "Guerra do Paraguai e Guerra Franco-Prussiana",
+        "C": "Revolução Americana e Revolução Farroupilha"
     }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Dentro do período da Guerra Fria duas principais potências foram formadas com duas ideologias diferentes. Quais eram elas?",
+        "resposta": "B",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Estados Unidos-comunista e União Soviética-capitalista",
+            "B": "Estados Unidos-capitalista e União Soviética-comunista",
+            "C": "Império Britanico-mornaquista e França-capitalista"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Qual foi o conflito que marcou a Guerra Fria e está vivo até hoje?",
+        "resposta": "B",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Guerra do Vietnã",
+            "B": "Guerra da Coreia",
+            "C": "Guerra civil chinesa"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Durante a Guerra Fria houve muita competição entre as superpotências do período. Com relação a isso, qual competição se destacou mais?",
+        "resposta": "B",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Corrida pela bomba atômica",
+            "B": "Corrida espacial",
+            "C": "Corrida dos 100km"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Dentro do período da Guerra Fria havia um monumento que marcou esse período. Que construção era essa?",
+        "resposta": "C",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Construção da estátua da liberdade",
+            "B": "O palácio de inverno",
+            "C": "Muro de Berlin"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Houve um evento que marcou o fim da Guerra Fria. Qual evento foi esse?",
+        "resposta": "C",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Queda de Constantinopla",
+            "B": "Revolução Russa",
+            "C": "Queda do Muro de Berlim"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Após a queda da União Soviética, vários países surgiram dessa separação. Quais foram eles?",
+        "resposta": "A",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Armênia, Azerbaijão, Bielorrússia (hoje Belarus), Estônia, Geórgia, Cazaquistão, Quirguistão, Letônia, Lituânia, Moldávia, Rússia, Tadjiquistão, Turcomenistão, Ucrânia e Uzbequistão",
+            "B": "Armênia, Azerbaijão, Bielorrússia (hoje Belarus), Estônia, Geórgia, Cazaquistão, Quirguistão, Letônia, Lituânia, Mongólia, Rússia, Tadjiquistão, Turcomenistão, Ucrânia e Uzbequistão",
+            "C": "Armênia, Azerbaijão, Bielorrússia (hoje Belarus), Estônia, Geórgia, Turquia, Quirguistão, Letônia, Lituânia, Moldávia, Rússia, Tadjiquistão, Turcomenistão, Ucrânia e Uzbequistão"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Depois do fim da União Soviética apenas poucos países continuaram a seguir um regime socialista. Quais foram eles?",
+        "resposta": "B",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Rússia, Mongólia e coreia do norte",
+            "B": "Lituânia, Letônia e Bielorrússia",
+            "C": "China, Vietnã, Laos, Coreia do Norte e Cuba"
         }]
     },
     {
-        "pergunta": "",
-        "resposta": "",
+        "pergunta": "Após a Queda da União soviética o mundo bipolar caiu formando um mundo:",
+        "resposta": "B",
         "alternativa": [{
-            "A": "",
-            "B": "",
-            "C": ""
+            "A": "Unipolar",
+            "B": "Multipolar",
+            "C": "Pluripolar"
         }]
     }
 ]
