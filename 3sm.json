@@ -5,7 +5,7 @@
         "alternativa": [{
             "A": "Leon Trótski",
             "B": "Xi Jinping",
-            "C": "Josef Stalin"
+            "C": "Karl Marx"
         }]
         
     },
@@ -64,17 +64,17 @@
         }]
     },
     {
-        "pergunta": "Após a queda da União Soviética, vários países surgiram dessa separação. Quais foram eles?",
-        "resposta": "A",
+        "pergunta": "Após a queda da União Soviética, vários países surgiram dessa separação. Quais dos países abaixo não faziam parte deles?",
+        "resposta": "C",
         "alternativa": [{
-            "A": "Armênia, Azerbaijão, Bielorrússia (hoje Belarus), Estônia, Geórgia, Cazaquistão, Quirguistão, Letônia, Lituânia, Moldávia, Rússia, Tadjiquistão, Turcomenistão, Ucrânia e Uzbequistão",
-            "B": "Armênia, Azerbaijão, Bielorrússia (hoje Belarus), Estônia, Geórgia, Cazaquistão, Quirguistão, Letônia, Lituânia, Mongólia, Rússia, Tadjiquistão, Turcomenistão, Ucrânia e Uzbequistão",
-            "C": "Armênia, Azerbaijão, Bielorrússia (hoje Belarus), Estônia, Geórgia, Turquia, Quirguistão, Letônia, Lituânia, Moldávia, Rússia, Tadjiquistão, Turcomenistão, Ucrânia e Uzbequistão"
+            "A": "Azerbaijão, Uzbequistão",
+            "B": "Bielorrússia (hoje Belarus), Lituânia",
+            "C": "Cuba, Vietã"
         }]
     },
     {
         "pergunta": "Depois do fim da União Soviética apenas poucos países continuaram a seguir um regime socialista. Quais foram eles?",
-        "resposta": "B",
+        "resposta": "C",
         "alternativa": [{
             "A": "Rússia, Mongólia e coreia do norte",
             "B": "Lituânia, Letônia e Bielorrússia",
