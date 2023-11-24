@@ -39,6 +39,7 @@
     margin-left: 10px;
     transition: 0.1s;
     cursor: pointer;
+    
 }
 
 input[type="submit"]{
@@ -46,11 +47,27 @@ input[type="submit"]{
     margin-bottom: 50px;
     font-size: 15px;
     border: none;
-    border-radius: 3px;
+    border-radius: 15px;
+    padding-left:10px;
+    padding-right: 10px;
+    transition: 0.2s;
+}
+
+input[type="submit"]:hover{
+    background-color: rgb(51, 134, 243);
+    color: white;
+    transform: scale(1.05);
 }
 
 #joao #perguntas ul li input{
     transition: 0.2s;
+    height: 15px;
+    width: 15px;
+    margin-top: 10.5px;
+}
+
+#joao #perguntas ul li input:hover{
+    transform: scale(1.1);
 }
 
 #joao #perguntas ul li input:checked{
@@ -84,6 +101,7 @@ input[type="submit"]{
 
 .timeline{
     width: 500%;
+    margin-top: 150px;
 }
 
 .line{
@@ -141,6 +159,30 @@ input[type="submit"]{
 
     to {
         margin-left: 0.15%;
+    }
+}
+
+.menu main, #joao{
+    opacity: 0;
+    animation-duration: 2s;
+    animation-name: transition;
+    animation-fill-mode: forwards;
+}
+
+#joao, .btn-primary, .enabled{
+    opacity: 0;
+    animation-duration: 1.5s;
+    animation-name: transition;
+    animation-fill-mode: forwards;
+}
+
+@keyframes transition {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 100;
     }
 }
 
@@ -280,11 +322,13 @@ section{
 
 /*PAUSE*/
 #botaolipe{
-    border-radius: 2px;
+    float: left;
+    border-radius: 5px;
     border: 2.5px black solid;
-    background-image: linear-gradient(120deg, #7f7f7f, #969191);
+    background-color: white;
     box-shadow: 0px 5px 5px rgba(3, 0, 31, 0.555);
     margin: 10px;
+    color: black;
 }
 
 h5{
@@ -314,4 +358,20 @@ h6{
     border-radius: 5px;
     display: flex;
     margin-top: 10px;
+}
+
+/*SCORE*/
+
+.score{
+    background-color: white;
+    border-radius: 5px;
+    border: 2.5px black solid;
+    border: 2.5px black solid;    box-shadow: 0px 5px 5px rgba(3, 0, 31, 0.555);
+    height: 50px;
+    width: 150px;
+    margin-top: 15px;
+    margin-right: 10px;
+    float: right;
+    text-align: center;
+    font-size: 30px;
 }

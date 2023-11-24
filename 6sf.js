@@ -1,4 +1,9 @@
 $(document).ready(function() {
+  let score = 0;
+  let acerto = 17;
+
+  console.log(score);
+  
 
   // clique no botao
   $("input[type='submit']").click(function() {
@@ -9,6 +14,11 @@ $(document).ready(function() {
     $("input[type='radio']:checked").each(function() {
       // valida se esta correto ou nao 
       if( $(this).val() == 's'){
+
+          score = score + acerto;
+          console.log(score);
+          $('#score').html(score);
+
           alert('Correto');
           resposta = true;
           var questao = parseInt($('#questao').val())+1;
@@ -59,7 +69,44 @@ $(document).ready(function() {
 
       }else{
           alert('Errado');    
-      }
+          score = score - acerto;
+          console.log(score);
+
+          var questao = parseInt($('#questao').val())+1;
+          
+          switch (questao) {
+            case 1: 
+              ball2.style.backgroundColor = 'red';
+            break;
+            case 2:
+              ball3.style.backgroundColor = 'red';
+            break;
+            case 3:
+              ball4.style.backgroundColor = 'red';
+            break;
+            case 4:
+              ball5.style.backgroundColor = 'red';
+            break;
+            case 5:
+              ball6.style.backgroundColor = 'red';
+            break;
+            case 6:
+              ball7.style.backgroundColor = 'red';
+            break;
+            case 7:
+              ball8.style.backgroundColor = 'red';
+            break;
+            case 8:
+              ball9.style.backgroundColor = 'red';
+            break;
+            case 9:
+              ball10.style.backgroundColor = 'red';
+            break;
+            case 10:
+              ball11.style.backgroundColor = 'red';
+            break;
+          }
+        }
       // limpa o check de cada elementos
       $(this).prop('checked',false);
       $(this).val('e');
@@ -80,7 +127,7 @@ $(document).ready(function() {
       $('#b').html(data[questao].alternativa[0].B);
       $('#c').html(data[questao].alternativa[0].C);
       var x = (data[questao].resposta);
-      console.log(x);
+ 
       $('#r'+x.toLowerCase()).val('s');
       return false
     });
@@ -100,7 +147,6 @@ $.getJSON("6sf.json", function (data) {
   $('#c').html(data[questao].alternativa[0].C);
 
   var x = (data[questao].resposta);
-  console.log(x);
   $('#r'+x.toLowerCase()).val('s');
   
 });
