@@ -1,6 +1,7 @@
 $(document).ready(function() {
   let score = 0;
-  let acerto = 17;
+  let acerto = 10;
+  let erro = 5;
 
   console.log(score);
   
@@ -69,8 +70,9 @@ $(document).ready(function() {
 
       }else{
           alert('Errado');    
-          score = score - acerto;
+          score = score - erro;
           console.log(score);
+          $('#score').html(score);
 
           var questao = parseInt($('#questao').val())+1;
           
