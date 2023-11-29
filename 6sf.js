@@ -14,7 +14,7 @@ $(document).ready(function() {
     // percorre todos os raidos checkes 
     $("input[type='radio']:checked").each(function() {
       // valida se esta correto ou nao 
-      if( $(this).val() == 's'){
+      if( $(this).val() == 'c'){
 
           score = score + acerto;
           console.log(score);
@@ -130,7 +130,7 @@ $(document).ready(function() {
       $('#c').html(data[questao].alternativa[0].C);
       var x = (data[questao].resposta);
  
-      $('#r'+x.toLowerCase()).val('s');
+      $('#r'+x.toLowerCase()).val('c');
       return false
     });
 
@@ -149,7 +149,7 @@ $.getJSON("6sf.json", function (data) {
   $('#c').html(data[questao].alternativa[0].C);
 
   var x = (data[questao].resposta);
-  $('#r'+x.toLowerCase()).val('s');
+  $('#r'+x.toLowerCase()).val('c');
   
 });
 

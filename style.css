@@ -12,14 +12,16 @@
     margin: 0;
 }
 
+/*BACKGROUNDS*/
+.serie6{
+    background-image: url(./Backgrounds/Egipto.gif);
+}
 
-/*LINHA 6°*/
+/*LINHAS*/
 .series{
-    background-image: url(https://steamuserimages-a.akamaihd.net/ugc/785254538960148235/540CE3179B68243EEED7B516C57DD35E6A56F528/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true);
     background-repeat: no-repeat;
-    background-size: 120%;
-    background-position-x: -50px;
-    background-position-y: -60px;
+    background-size: cover;
+    background-position-y: -70px;
     backdrop-filter: blur(3px);
     font-family: 'vanilla';
     padding-bottom: 100px;
@@ -239,10 +241,9 @@ input[type="submit"]:hover{
 
 /*MENU*/
 .menu main{
-    margin-top: 20px;
-    width: 80%;
     margin-left: 10%;
-    padding: 10px;
+    margin-right: 10%;
+    padding: 20px;
     font-family: 'vanilla';
     color: white;
     text-shadow: 0px 0px 10px rgb(0, 0, 0);
@@ -263,11 +264,12 @@ input[type="submit"]:hover{
 }
 
 .menu{
-    background-image: url(https://steamuserimages-a.akamaihd.net/ugc/785254538960148235/540CE3179B68243EEED7B516C57DD35E6A56F528/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%2523000000&letterbox=true);
+    background-image: url(./Backgrounds/Egipto.gif);
     background-repeat: no-repeat;
     background-size: cover;
     backdrop-filter: blur(3px);
     overflow: hidden;
+    background-position-y: -70px;
 }
 
 .menu h1{

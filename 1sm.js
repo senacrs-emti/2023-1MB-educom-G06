@@ -8,7 +8,7 @@ $(document).ready(function() {
     // percorre todos os raidos checkes 
     $("input[type='radio']:checked").each(function() {
       // valida se esta correto ou nao 
-      if( $(this).val() == 's'){
+      if( $(this).val() == 'c'){
           alert('Correto');
           resposta = true;
           var questao = parseInt($('#questao').val())+1;
@@ -81,7 +81,7 @@ $(document).ready(function() {
       $('#c').html(data[questao].alternativa[0].C);
       var x = (data[questao].resposta);
       console.log(x);
-      $('#r'+x.toLowerCase()).val('s');
+      $('#r'+x.toLowerCase()).val('c');
       return false
     });
 
@@ -101,7 +101,7 @@ $.getJSON("1sm.json", function (data) {
 
   var x = (data[questao].resposta);
   console.log(x);
-  $('#r'+x.toLowerCase()).val('s');
+  $('#r'+x.toLowerCase()).val('c');
   
 });
 
