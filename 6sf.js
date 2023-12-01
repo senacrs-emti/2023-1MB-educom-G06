@@ -3,9 +3,6 @@ $(document).ready(function() {
   let acerto = 10;
   let erro = 5;
 
-  console.log(score);
-  
-
   // clique no botao
   $("input[type='submit']").click(function() {
 
@@ -17,7 +14,6 @@ $(document).ready(function() {
       if( $(this).val() == 'c'){
 
           score = score + acerto;
-          console.log(score);
           $('#score').html(score);
 
           alert('Correto');
@@ -69,11 +65,10 @@ $(document).ready(function() {
           
 
       }else{
-          alert('Errado');    
           score = score - erro;
-          console.log(score);
           $('#score').html(score);
 
+          alert('Errado');    
           var questao = parseInt($('#questao').val())+1;
           
           switch (questao) {

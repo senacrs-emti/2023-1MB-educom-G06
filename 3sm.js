@@ -1,4 +1,7 @@
 $(document).ready(function() {
+  let score = 0;
+  let acerto = 10;
+  let erro = 5;
 
   // clique no botao
   $("input[type='submit']").click(function() {
@@ -9,6 +12,10 @@ $(document).ready(function() {
     $("input[type='radio']:checked").each(function() {
       // valida se esta correto ou nao 
       if( $(this).val() == 'c'){
+
+          score = score + acerto;
+          $('#score').html(score);
+          
           alert('Correto');
           resposta = true;
           var questao = parseInt($('#questao').val())+1;
@@ -58,7 +65,45 @@ $(document).ready(function() {
           
 
       }else{
-          alert('Errado');    
+          
+        score = score - erro;
+        $('#score').html(score);
+
+        alert('Errado');    
+        var questao = parseInt($('#questao').val())+1;
+        
+        switch (questao) {
+          case 1: 
+            ball2.style.backgroundColor = 'red';
+          break;
+          case 2:
+            ball3.style.backgroundColor = 'red';
+          break;
+          case 3:
+            ball4.style.backgroundColor = 'red';
+          break;
+          case 4:
+            ball5.style.backgroundColor = 'red';
+          break;
+          case 5:
+            ball6.style.backgroundColor = 'red';
+          break;
+          case 6:
+            ball7.style.backgroundColor = 'red';
+          break;
+          case 7:
+            ball8.style.backgroundColor = 'red';
+          break;
+          case 8:
+            ball9.style.backgroundColor = 'red';
+          break;
+          case 9:
+            ball10.style.backgroundColor = 'red';
+          break;
+          case 10:
+            ball11.style.backgroundColor = 'red';
+          break;
+        }   
       }
       // limpa o check de cada elementos
       $(this).prop('checked',false);

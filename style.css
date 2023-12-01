@@ -12,40 +12,114 @@
     margin: 0;
 }
 
+/*RESPONSIVIDADE*/
+
+@media(max-width: 425px) {
+
+    .series{
+        background-position-x: -367px;
+        padding-bottom: 23%;
+    }
+
+    #perguntas{
+        margin-left: 5%;
+        width: 90%;
+        padding-left: 35px;
+        padding-right: 35px;
+        height: 370px;
+    }
+
+    #joao h1, #joao #perguntas ul li label{
+        font-size: 14px;
+    }
+
+    .top{
+        margin-bottom: 30px;
+    }
+
+    .ball1, .ball2, .ball3, .ball4, .ball5, .ball6, .ball7, .ball8, .ball9, .ball10{
+        margin-right: 6.3%;
+    }
+    
+    .balls p{
+        font-size: 14px;
+    }
+
+    .timeline{
+        margin-top: 120px;
+    }
+
+    #joao #perguntas ul li input{
+        margin-left: -20px;
+    }
+
+    #joao #perguntas ul li input:checked{
+        margin-left: -15px;
+    }
+}
+
+@media(min-width: 425px) {
+
+    .series{
+        padding-bottom: 3.9%;
+    }
+
+    #perguntas{ 
+        margin-left: 25%;
+        width: 50%;
+        padding-left: 50px;
+        padding-right: 50px;
+        height: 350px;
+    }
+
+    #joao h1, #joao #perguntas ul li label{
+        font-size: 17px;
+    }
+
+    .top{
+        margin-bottom: 80px;
+    }
+
+    .ball1, .ball2, .ball3, .ball4, .ball5, .ball6, .ball7, .ball8, .ball9, .ball10{
+        margin-right: 8.7%;
+    }
+
+    .timeline{
+        margin-top: 150px;
+    }
+
+    #joao #perguntas ul li input:checked{
+        margin-left: 5px;
+    }
+}
+
 /*BACKGROUNDS*/
 .serie6{
     background-image: url(./Backgrounds/Fund6.gif);
-    background-position-y: -70px;
 }
 
 .serie7{
     background-image: url(./Backgrounds/Fund7.gif);
-    background-position-y: -70px;
 }
 
 .serie8{
     background-image: url(./Backgrounds/Fund8.gif);
-    background-position-y: -70px;
 }
 
 .serie9{
     background-image: url(./Backgrounds/Fund9.gif);
-    background-position-y: -70px;
 }
 
 .serie1{
     background-image: url(./Backgrounds/Med1.gif);
-    background-position-y: -70px;
 }
 
 .serie2{
     background-image: url(./Backgrounds/Med2.gif);
-    background-position-y: -70px;
 }
 
 .serie3{
     background-image: url(./Backgrounds/Med3.gif);
-    background-position-y: -70px;
 }
 
 /*LINHAS*/
@@ -54,24 +128,15 @@
     background-size: cover;
     backdrop-filter: blur(3px);
     font-family: 'vanilla';
-    padding-bottom: 100px;
     color: white;
     overflow: hidden;
-}
-
-#joao h1{
-    font-size: 17px;
+    background-position-y: -70px;
+    height: auto;
 }
 
 #joao #perguntas ul li{
     list-style: none;
     display: flex;
-}
-#joao #perguntas ul li input[type="chekbox"]{
-    margin-left: 10px;
-    transition: 0.1s;
-    cursor: pointer;
-    
 }
 
 input[type="submit"]{
@@ -92,49 +157,37 @@ input[type="submit"]:hover{
 }
 
 #joao #perguntas ul li input{
-    transition: 0.2s;
     height: 15px;
     width: 15px;
     margin-top: 10.5px;
+    transition: 0.1s;
+    cursor: pointer;
 }
 
 #joao #perguntas ul li input:hover{
     transform: scale(1.1);
 }
 
-#joao #perguntas ul li input:checked{
-    margin-left: 10px;
-}
-
 #joao #perguntas ul li label{
     margin-left: 7px;
     margin-top: 6px;
-    font-size: 17px;
 }   
 
 #perguntas{
-    height: auto;
-    width: 50%;
-    margin-left: 25%;
     background-color: rgba(6, 14, 20, 0.783);
     box-shadow: 0px 0px 5px rgb(0, 0, 0);
-    padding-left: 50px;
-    padding-right: 50px;
     padding-top: 20px;
     border-radius: 20px;
     font-family: 'mont';
-    margin-bottom: 100px;
 }
 
 .top{
-    height: 270px;
     width: 100%;
     overflow: hidden;
 }
 
 .timeline{
     width: 500%;
-    margin-top: 150px;
 }
 
 .line{
@@ -168,17 +221,14 @@ input[type="submit"]:hover{
 
 .ball2{
     margin-top: -30px;
-    margin-right: 8.7%;
 }
 
 .ball3, .ball4, .ball5, .ball6, .ball7, .ball8, .ball9, .ball10{
-    margin-right: 8.7%;
     animation-fill-mode: forwards;
 }
 
 /*ANIMAÇÕES*/
 .ball1{
-    margin-right: 8.7%;
     opacity: 0;
     animation-name: anim0;
     animation-duration: 2s;
@@ -404,8 +454,7 @@ h6{
     box-shadow: 0px 5px 5px rgba(3, 0, 31, 0.555);
     height: 50px;
     width: 150px;
-    margin-top: 15px;
-    margin-right: 10px;
+    margin: 10px;
     float: right;
     text-align: center;
     font-size: 30px;
